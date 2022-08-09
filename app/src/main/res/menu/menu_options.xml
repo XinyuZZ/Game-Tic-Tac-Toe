@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivity">
+    <item
+        android:id="@+id/menu_Exit"
+        android:title="@string/Exit"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/level2"
+        android:title="@string/Expert"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/level1"
+        android:title="@string/Hard"
+        android:orderInCategory="1"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/level0"
+        android:orderInCategory="100"
+        android:title="@string/Easy"
+        app:showAsAction="never" />
+</menu>

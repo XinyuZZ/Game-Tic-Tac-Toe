@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">井上开花</string>
+    <string name="CurrentLevel">当前难度：</string>
+    <string name="YouPlayFirst">嗯先通瑟</string>
+    <string name="AndroidTurn">别宁要通</string>
+    <string name="YourTurn">接倒通啊</string>
+    <string name="Tie">躲平</string>
+    <string name="YouWon">嗯赢度</string>
+    <string name="AndroidWon">倒大丑</string>
+    <string name="YourWinTime">赢：</string>
+    <string name="AndroidWinTime">虚：</string>
+    <string name="TieTime">躲平：</string>
+    <string name="Easy">丘味水几</string>
+    <string name="Hard">有点几难</string>
+    <string name="Expert">难死倒灶</string>
+    <string name="Start">操足两手</string>
+    <string name="Exit">嗯尿乱点</string>
+    <string name="bgm">虾歇刻几</string>
+    <string name="StopBGM">再歇刻几</string>
+    <string name="ResetandRestart">商务复位</string>
+    <string name="about">反馈热线</string>
+    <string name="about_msg">Dev by xy.z</string>
+    <string name="about_msg2">xy.z@my.cityu.edu.hk\nCity University of Hong Kong</string>
+</resources>

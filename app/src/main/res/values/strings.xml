@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tic Tac Toe</string>
+    <string name="CurrentLevel">Current Level：</string>
+    <string name="YouPlayFirst">You Play First</string>
+    <string name="AndroidTurn">AndroidTurn</string>
+    <string name="YourTurn">Your Turn</string>
+    <string name="Tie">It is a Tie!</string>
+    <string name="YouWon">You Won!</string>
+    <string name="AndroidWon">Android Won</string>
+    <string name="YourWinTime">You Win Time(s):</string>
+    <string name="AndroidWinTime">Android Win Time(s):</string>
+    <string name="TieTime">Tie Time(s):</string>
+    <string name="Easy">Easy</string>
+    <string name="Hard">Hard</string>
+    <string name="Expert">Expert</string>
+    <string name="Start">Start a New Game</string>
+    <string name="bgm">Play BGM</string>
+    <string name="StopBGM">Play BGM2</string>
+    <string name="Exit">Exit</string>
+    <string name="ResetandRestart">Reset and Restart</string>
+    <string name="about">About</string>
+    <string name="about_msg">Dev by xy.z</string>
+    <string name="about_msg2">xy.z@my.cityu.edu.hk\nCity University of Hong Kong</string>
+
+
+</resources>
